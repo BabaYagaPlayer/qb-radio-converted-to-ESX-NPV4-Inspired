@@ -1,6 +1,7 @@
-# Jomidar Radio [qb-radio]
+# Converted QB - Radio [qb-radio] to ESX - Radio
+#
 * Preview : https://youtu.be/FYKKJBYLWeU
-* NOPIXEL V4 Inspired Radio Scrpt For qb-core
+* NOPIXEL V4 Inspired Radio Scrpt For esx_core
 
 
 # Installations
